@@ -3113,4 +3113,9 @@
     <None Include="..\media\openttd.ico" />
     <None Include="..\README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\core\std_type.hpp">
+      <Filter>Core Source Code</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
