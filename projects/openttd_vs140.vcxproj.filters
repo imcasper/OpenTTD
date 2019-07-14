@@ -1320,6 +1320,9 @@
     <ClInclude Include="..\src\core\smallvec_type.hpp">
       <Filter>Core Source Code</Filter>
     </ClInclude>
+    <ClInclude Include="..\src\core\std_type.hpp">
+      <Filter>Core Source Code</Filter>
+    </ClInclude>
     <ClInclude Include="..\src\core\string_compare_type.hpp">
       <Filter>Core Source Code</Filter>
     </ClInclude>
